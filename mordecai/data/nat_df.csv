@@ -16,7 +16,7 @@ Aruban,ABW
 Australian,AUS
 Austrian,AUT
 Azerbaijani,AZE
-Azeri, AZE
+Azeri,AZE
 Bahamian,BHS
 Bahraini,BHR
 Bangladeshi,BGD
@@ -26,7 +26,7 @@ Belgian,BEL
 Belizean,BLZ
 Beninese,BEN
 Beninois,BEN
-BermudianBMU
+Bermudian,BMU
 Bermudan,BMU
 Bhutanese,BTN
 Bolivian,BOL
@@ -171,7 +171,7 @@ Namibian,NAM
 Nauruan,NRU
 Nepali,NPL
 Nepalese,NPL
-Dutch, NLD
+Dutch,NLD
 Netherlandic,NLD
 New Caledonian,NCL
 New Zealander,NZL
@@ -187,7 +187,7 @@ Pakistani,PAK
 Palauan,PLW
 Palestinian,PSE
 Panamanian,PAN
-Papua New Guinean, PNG
+Papua New Guinean,PNG
 Papuan,PNG
 Paraguayan,PRY
 Peruvian,PER
@@ -210,12 +210,12 @@ Saint Lucian,LCA
 Saint-Martinoise,MAF
 Saint-Pierrais,SPM
 Miquelonnais,SPM
-Saint Vincentian, VCT
+Saint Vincentian,VCT
 Vincentian,VCT
 Samoan,WSM
 Sammarinese,SMR
 São Toméan,STP
-Saudi, SAU
+Saudi,SAU
 Saudi Arabian,SAU
 Senegalese,SEN
 Serbian,SRB
@@ -225,7 +225,7 @@ Sierra Leonean,SLE
 Singaporean,SGP
 Sint Maarten,SXM
 Slovak,SVK
-Slovenian, SVN
+Slovenian,SVN
 Slovene,SVN
 Solomon Island,SLB
 Somali,SOM
@@ -262,7 +262,7 @@ Emirati,ARE
 Emirian,ARE
 Emiri,ARE
 British,GBR
-UK, GBR
+UK,GBR
 American,USA
 Uruguayan,URY
 Uzbekistani,UZB
